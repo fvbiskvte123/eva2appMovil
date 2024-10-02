@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">eva1</string>
+    <string name="iniciar_sesi_n">Iniciar Sesión</string>
+    <string name="contrase_a">Contraseña</string>
+    <string name="correo_electr_nico">Correo Electrónico</string>
+    <string name="iniciar_sesion">Iniciar Sesión</string>
+    <string name="men_principal">Menú Principal</string>
+    <string name="monitoreo_en_tiempo_real">Monitoreo en Tiempo Real</string>
+    <string name="historial_de_lecturas">Historial de Lecturas</string>
+    <string name="historial_de_lectura">Historial de Lecturas</string>
+    <string name="monitoreo_en_tiempo_rea">Monitoreo en Tiempo Real</string>
+    <string name="lectura_del_sensor_de_gas">Lectura del sensor de gas:</string>
+    <string name="lectura_del_sensor_de_humo">Lectura del sensor de humo:</string>
+    <string name="actualizar">Actualizar</string>
+    <string name="_0_ppm">0 ppm</string>
+    <string name="_0_ppm_">0 ppm</string>
+    <string name="lista_de_lecturas_anteriores">Lista de lecturas anteriores</string>
+    <string name="historial_de_lecturas_">Historial de Lecturas</string>
+</resources>
